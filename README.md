@@ -23,4 +23,4 @@ Built a professional sales dashboard using Microsoft Excel to analyze sales perf
 Data Cleaning | Data Analysis | Dashboard Design | Reporting
 
 ## Author
-Your Name
+Shayantha Das
