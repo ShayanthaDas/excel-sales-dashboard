@@ -1,109 +1,38 @@
+excel-sales-dashboard
+1. Project Title
+
 Excel Sales Dashboard
-📌 Project Overview
 
-This project presents an interactive sales dashboard built using Microsoft Excel to analyze and monitor business performance. The dashboard provides a comprehensive view of key sales metrics, enabling stakeholders to track trends, evaluate performance, and make data-driven decisions.
+2. Objective
 
-🎯 Business Problem
+Summarize sales performance data to identify trends, top products, and key regions using Excel dashboards for management insights.
 
-Organizations often face challenges in:
+3. Tools & Technologies
 
-Tracking sales performance across multiple dimensions
+Excel (Pivot Tables, Charts, Dashboards)
 
-Identifying top-performing products and regions
+4. Key Analysis / Output
 
-Monitoring profit and revenue trends
+Created dynamic dashboards visualizing sales trends, revenue by product categories, and top-performing regions.
 
-Making quick decisions based on scattered data
+5. Key Insights
 
-This project addresses these issues by creating a centralized and interactive dashboard.
+Furniture and technology products generate the most revenue.
 
-🧰 Tools & Technologies
+Peak sales months occur in Q4.
 
-Microsoft Excel
+Some regions lag in sales, suggesting the need for strategic intervention.
 
-Pivot Tables
+6. Dashboard / Visuals
 
-Pivot Charts
+(Add screenshots here)
 
-Slicers
+<img width="637" height="362" alt="image" src="https://github.com/user-attachments/assets/29946f86-4e48-4365-9c42-1056cb4d3d02" />
+<img width="602" height="362" alt="image" src="https://github.com/user-attachments/assets/b0c5aa30-0135-49a4-8421-7b233418bc9b" />
+<img width="597" height="368" alt="image" src="https://github.com/user-attachments/assets/83a6c73d-25ac-4dbe-9cdc-0dc99fca14bc" />
 
-Data Cleaning & Transformation
 
-🔄 Methodology
-Data Cleaning
-
-Removed duplicates and missing values
-
-Standardized data formats
-
-Data Transformation
-
-Created calculated fields (Sales, Profit, KPIs)
-
-Structured dataset for analysis
-
-Dashboard Development
-
-Built pivot tables for aggregation
-
-Designed interactive charts
-
-Added slicers for filtering (time, region, category)
-
-Visualization
-
-Sales trends over time
-
-Profit analysis
-
-Regional performance
-
-Product/category insights
-
-Excel dashboards typically use pivot tables, charts, and slicers to transform raw data into interactive business insights
-
-📊 Key Metrics (KPIs)
-
-Total Sales
-
-Total Profit
-
-Quantity Sold
-
-Top Products
-
-Regional Performance
-
-📊 Key Insights
-
-Sales are concentrated in a few key product categories
-
-Certain regions consistently generate higher revenue
-
-Profit trends vary across time periods, indicating performance fluctuations
-
-A small group of customers/products contributes significantly to overall profit
-
-💡 Business Recommendations
-
-Focus on high-performing product categories to maximize revenue
-
-Expand strategies in top-performing regions
-
-Improve performance in low-profit areas through targeted actions
-
-Use time-based insights to optimize promotions and inventory
-
-📁 Project Structure
-excel-sales-dashboard/
-│── data/
-│── dashboard.xlsx
-│── visuals/
-│── README.md
-🚀 Future Improvements
-
-Add automated data refresh using Power Query
-
-Integrate with Power BI for advanced analytics
-
-Include forecasting for future sales trends
+7. Project Structure
+/data       → Raw & cleaned datasets  
+/dashboard  → Excel dashboards  
+/images     → Visualizations and screenshots  
